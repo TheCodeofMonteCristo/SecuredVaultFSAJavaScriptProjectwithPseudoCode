@@ -1,6 +1,45 @@
 
 
+const string1 = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
+console.log(string1)
 
+
+
+const 5 + 5 = 10
+
+const - = 
+
+const 
+
+//Math Solutions to present the needed codes
+
+
+
+
+
+
+/*Comment Explaining Code to Strangers: */
+
+
+
+/*Comment Explaining Code to Strangers: */
+
+
+/*Comment Explaining Code to Strangers: */
+
+
+/*Comment Explaining Code to Strangers: */
+
+
+/*Comment Explaining Code to Strangers: */
+
+
+
+
+
+
+
+/*Comment Explaining Code to Strangers: */
 
 
 /*PseudoCode: (Contained in JavaScript file)
