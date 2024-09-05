@@ -1,15 +1,23 @@
 
 
+const myHeading = document.querySelector("h1");
+myHeading.textContent = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
+
 const string1 = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
 console.log(string1)
 
 
 
-const 5 + 5 = 10
+const numOne = 5 + 5 
+const numTwo = 80 / 2 
+const numThree = 40 - 1
 
-const - = 
 
-const 
+numOne;
+numTwo;
+numThree; 
+
+
 
 //Math Solutions to present the needed codes
 
